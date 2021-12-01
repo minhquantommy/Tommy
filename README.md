@@ -1,12 +1,12 @@
 #Hi there 👋, I'm Tommy | Quân 
  
- • 🔭 I’m currently working on Circus SMP.
+ • 🔭 I’m Owner of Circus SMP.
  
- • 🌱 I’m currently learning more about Javascript.
+ • 🌱 I’m currently learning more about Javascript, mathematics.
  
- • 👯 I’m looking to a girl friend
+ • 💘 Ellie is my love, but now ...
  
- • 🤔 I’m looking for help with VelocityX documentation.
+ • 🤔 I’m looking for help with Minecraft server, java, python, ...
  
  • 📫 How to contact me: https://tumy.fun
 
