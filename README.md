@@ -13,7 +13,12 @@
  ## My server
  
  <img src="https://media.discordapp.net/attachments/868425557136781313/918063303232733204/CIRCUS_SMP.png?width=995&height=498">
-[Discord](https://discord.tumy.fun) - [Website](https://circussmp.tumy.fun) - [Facebook](https://fb.com/circussmpofficial)
+
+[Discord](https://discord.tumy.fun) 
+
+[Website](https://circussmp.tumy.fun)
+
+[Facebook](https://fb.com/circussmpofficial)
 
  
  ## My Github Stats
