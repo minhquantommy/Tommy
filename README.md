@@ -11,8 +11,7 @@
  • 📫 How to contact me: https://tumy.fun
 
  ## My server
- 
- <a src ="https://discord.tumy.fun">Circus SMP
+ <link rel="Circus SMP" href="https://circussmp.tumy.fun">
  
  ## My Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=minhquantommy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
