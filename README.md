@@ -2,9 +2,9 @@
  
  • 🎮 I’m Owner of Circus SMP.
  
- • 🌱 I’m currently learning more about Javascript, mathematics.
+ • 💻 I'm Linux Beginner, newbie at coding
  
- • 💘 Ellie is my love, but now ...
+ • 🌱 I’m currently learning more about Javascript, mathematics.
  
  • 🤔 I’m looking for help with Minecraft server, java, python, ...
  
