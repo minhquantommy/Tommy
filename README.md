@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Tommy | Quân 
  
- • 🎮 I’m Owner of Circus SMP.
+ • 🎮  I’m Owner of Circus SMP.
  
- • 💻 I'm Linux Beginner, newbie at coding
+ • 💻  I'm Linux Beginner, newbie at coding
  
- • 🌱 I’m currently learning more about Javascript, mathematics.
+ • 🌱  I’m currently learning more about Javascript, mathematics.
  
- • 🤔 I’m looking for help with Minecraft server, java, python, ...
+ • 🤔  I’m looking for help with Minecraft server, java, python, ...
  
- • 📫 How to contact me: https://tumy.fun
+ • 📫  How to contact me: https://tumy.fun
 
  ## My server
  
