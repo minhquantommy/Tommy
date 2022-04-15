@@ -14,7 +14,7 @@
  
  <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
 
-[Discord]<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> (https://discord.circusmc.net) 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">(https://discord.circusmc.net) 
 
 [Website](https://circussmp.tumy.fun)
 
