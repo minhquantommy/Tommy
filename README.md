@@ -1,20 +1,20 @@
-# Hi there 👋, I'm Tommy | Quân 
+# Hi there 👋, I'm TommyPolu | Quân 
  
- • 🎮  I’m Owner of Circus SMP.
+ • 🎮  I’m Owner of CircusMC | Minecraft Server.
  
  • 💻  I'm Linux Beginner, newbie at coding
  
- • 🌱  I’m currently learning more about Javascript, mathematics.
+ • 🌱  I’m currently learning more about Java.
  
  • 🤔  I’m looking for help with Minecraft server, java, python, ...
  
- • 📫  How to contact me: https://tumy.fun
+ • 📫  How to contact me: nminhquan469@gmail.com
 
  ## My server
  
- <img src="https://media.discordapp.net/attachments/868425557136781313/918063303232733204/CIRCUS_SMP.png?width=995&height=498">
+ <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
 
-[Discord](https://discord.tumy.fun) 
+[Discord]<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> (https://discord.circusmc.net) 
 
 [Website](https://circussmp.tumy.fun)
 
