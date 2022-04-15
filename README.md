@@ -11,7 +11,7 @@
  • 📫  How to contact me: nminhquan469@gmail.com
 
  ## My server
-  <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480" alt="banner" width="1280" height="720"> 
+  <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480" alt="banner" width="100" height="600"> 
  
 <div id="badges">
   <a href="https://discord.circusmc.net">
