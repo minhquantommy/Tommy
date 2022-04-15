@@ -12,9 +12,9 @@
 
  ## My server
  
- <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
+<img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">(https://discord.circusmc.net) 
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 [Website](https://circussmp.tumy.fun)
 
