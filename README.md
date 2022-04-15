@@ -12,13 +12,11 @@
 
  ## My server
  
-<img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
-
-<a href="https://discord.circusmc.net "><img alt="Language Grade: Java" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
-[Website](https://circussmp.tumy.fun)
-
-[Facebook](https://fb.com/circussmpofficial)
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
  
  ## My Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=minhquantommy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
