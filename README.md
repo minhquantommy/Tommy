@@ -14,7 +14,7 @@
  
 <div id="badges">
   <a href="https://discord.circusmc.net">
-    <img src="https://img.shields.io/badge/%3C868425554578251797%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.facebook.com/circusmcpofficial">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
