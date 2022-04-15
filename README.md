@@ -14,8 +14,7 @@
  
 <img src="https://media.discordapp.net/attachments/896619903048626246/957602085904482334/banner.png?width=853&height=480">
 
-<a href="https://discord.circusmc.net "><img alt="Language Grade: Java" src="![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)> </a>
-
+<a href="https://discord.circusmc.net "><img alt="Language Grade: Java" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
 [Website](https://circussmp.tumy.fun)
 
 [Facebook](https://fb.com/circussmpofficial)
